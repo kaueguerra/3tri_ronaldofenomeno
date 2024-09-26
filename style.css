@@ -18,3 +18,15 @@ body{
     background-color: var(--cor-secundaria);
     text-align: center;
 }
+
+.cabecalho_titulo{
+    font-size: 2rem;
+    color: var(--cor-texto);
+    font-weight: 400;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
